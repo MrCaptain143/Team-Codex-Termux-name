@@ -283,21 +283,21 @@ echo -e "   ${c}██║░░██╗██║░░██║██║░░�
 echo -e "   ${c}╚█████╔╝╚█████╔╝██████╔╝███████╗██╔╝╚██╗"
 echo -e "   ${c}░╚════╝░░╚════╝░╚═════╝░╚══════╝╚═╝░░╚═╝${n}"
 echo -e "${y}               +-+-+-+-+-+-+-+-+"
-echo -e "${c}               |D|S|-|C|O|D|E|X|"
+echo -e "${c}               |M|R|-|C|O|D|E|X|"
 echo -e "${y}               +-+-+-+-+-+-+-+-+${n}"
 echo
  if [ $random_number -eq 0 ]; then
 echo -e "${b}╭════════════════════════⊷"
-echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/Termuxcodex"
+echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/Mr_codex_Team"
 echo -e "${b}╰════════════════════════⊷"
         else
 echo -e "${b}╭══════════════════════════⊷"
-echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/alphacodex369"
+echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/Mr_codex_Team"
 echo -e "${b}╰══════════════════════════⊷"
         fi
 echo
 echo -e "${b}╭══ ${g}〄 ${y}ᴄᴏᴅᴇx ${g}〄"
-echo -e "${b}┃❁ ${g}ᴄʀᴇᴀᴛᴏʀ: ${y}ᴅx-ᴄᴏᴅᴇx"
+echo -e "${b}┃❁ ${g}ᴄʀᴇᴀᴛᴏʀ: ${y}Team-Codex"
 echo -e "${b}┃❁ ${g}ᴅᴇᴠɪᴄᴇ: ${y}${VENDOR} ${MODEL}"
 echo -e "${b}╰┈➤ ${g}Hey ${y}Dear"
 echo
@@ -369,21 +369,21 @@ echo -e "   ${c}██║░░██╗██║░░██║██║░░�
 echo -e "   ${c}╚█████╔╝╚█████╔╝██████╔╝███████╗██╔╝╚██╗"
 echo -e "   ${c}░╚════╝░░╚════╝░╚═════╝░╚══════╝╚═╝░░╚═╝${n}"
 echo -e "${y}               +-+-+-+-+-+-+-+-+"
-echo -e "${c}               |D|S|-|C|O|D|E|X|"
+echo -e "${c}               |M|R|-|C|O|D|E|X|"
 echo -e "${y}               +-+-+-+-+-+-+-+-+${n}"
 echo
  if [ $random_number -eq 0 ]; then
 echo -e "${b}╭════════════════════════⊷"
-echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/Termuxcodex"
+echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/Mr_codex_Team"
 echo -e "${b}╰════════════════════════⊷"
         else
 echo -e "${b}╭══════════════════════════⊷"
-echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/alphacodex369"
+echo -e "${b}┃ ${g}[${n}ム${g}] ᴛɢ: ${y}t.me/Mr_codex_Team"
 echo -e "${b}╰══════════════════════════⊷"
         fi
 echo
 echo -e "${b}╭══ ${g}〄 ${y}ᴄᴏᴅᴇx ${g}〄"
-echo -e "${b}┃❁ ${g}ᴄʀᴇᴀᴛᴏʀ: ${y}ᴅx-ᴄᴏᴅᴇx"
+echo -e "${b}┃❁ ${g}ᴄʀᴇᴀᴛᴏʀ: ${y}Team-Codex"
 echo -e "${b}╰┈➤ ${g}Hey ${y}Dear"
 echo
 echo -e "${c}╭════════════════════════════════════════════════⊷"
